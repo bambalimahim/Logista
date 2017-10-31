@@ -1,0 +1,57 @@
+@font-face {
+    font-family: 'Dayrom';
+    src: url('../fonts/dayrom.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SourceSansPro-ExtraLight';
+    src: url('../fonts/SourceSansPro-ExtraLight.otf');
+}
+
+@font-face {
+    font-family: 'FBlack';
+    src: url('../fonts/F_Black.otf');
+}
+
+@font-face {
+    font-family: 'AlexBrush-Regular';
+    src: url('../fonts/AlexBrush-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'OpenSans-Light';
+    src: url('../fonts/OpenSans-Light.ttf');
+}
+
+@font-face {
+    font-family: 'Fnl';
+    src: url('../fonts/FNL.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Hector';
+    src: url('../fonts/Hector.otf');
+}
+
+@font-face {
+    font-family: 'Leoscar';
+    src: url('../fonts/Leoscar-Sans-Serif.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Leoscar-Serif';
+    src: url('../fonts/Leoscar-Serif.ttf') format('truetype');
+}
+body {
+     background-color: #f8f8f8;
+     font-family: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
+ }
+
+.panel-section{
+    font-family: "FBlack";
+    font-size:50px ;
+    color: #31b0d5;
+    border-color: #FFFFFF;
+}

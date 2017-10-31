@@ -1,0 +1,11 @@
+.body {
+	background-color: #eee;
+	min-height: 100vh;
+}
+
+.mini {
+	height: 150px;
+	width: 150px;
+	margin: 0 auto;
+}
+
